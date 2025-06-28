@@ -1,13 +1,6 @@
 # 🧭 Traventure - Discover Your Next Adventure
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react.js-000000?style=for-the-badge&logo=reactjs&logoColor=blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwindcss)
-![ShadCN UI](https://img.shields.io/badge/ShadCN-UI-8B5CF6?logo=storybook)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?logo=netlify)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Dribbble](https://img.shields.io/badge/Design%20Inspired%20By-Dribbble-F72E91?logo=dribbble&logoColor=white)](https://dribbble.com/shots/20478996-Kluyuran-Travel-Website-Responsive)
+
 
 ---
 
