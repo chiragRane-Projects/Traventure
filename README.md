@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 - **Next.js 15 (App Router)**
-- **React 18**
+- **React 19**
 - **Tailwind CSS**
 - **JavaScript (ES6+)**
 - **ShadCN UI**
