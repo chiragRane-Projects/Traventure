@@ -1,6 +1,6 @@
 # 🧭 Traventure - Discover Your Next Adventure
 
-![Next.js](https://img.shields.io/style=for-the-badge/Next.js-15-black?logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwindcss)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN-UI-8B5CF6?logo=storybook)
