@@ -7,10 +7,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?logo=netlify)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Dribbble](https://img.shields.io/badge/Design%20Inspired%20By-Dribbble-F72E91?logo=dribbble&logoColor=white)](https://dribbble.com/shots/20478996-Kluyuran-Travel-Website-Responsive)
 
 ---
 
 🚀 **Traventure** is a sleek and modern travel & tour landing page built using **Next.js 15 App Router**. Perfect for showcasing travel packages, adventure experiences, and local getaways. Fully responsive, SEO-optimized, and ready for production deployment.
+
+> 🎨 **Design inspired by [Anamkhrl’s Dribbble shot – Kluyuran Travel Website](https://dribbble.com/shots/20478996-Kluyuran-Travel-Website-Responsive)**
 
 ## ✨ Features
 
