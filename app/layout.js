@@ -1,5 +1,6 @@
 import { Outfit } from "next/font/google";
 import "./globals.css";
+import SplashScreen from "@/lib/SplashProvider";
 
 const outfit = Outfit({
   variable: "--font-geist-sans",
@@ -26,11 +27,14 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${outfit.className}`}
       >
+        <SplashScreen>
         {children}
+        </SplashScreen>
+      
       </body>
     </html>
   );
