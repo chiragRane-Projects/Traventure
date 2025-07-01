@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import Image from "next/image";
 import HeroImage from "@/public/heroImage.jpg";
@@ -43,7 +41,7 @@ const Hero = () => {
       </section>
 
       {/* Padding to prevent overlap */}
-      <div className="h-[100px]" />
+      <div className="h-[70px] md:h-[100px]" />
     </>
   );
 };

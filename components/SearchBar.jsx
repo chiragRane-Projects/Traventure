@@ -1,10 +1,7 @@
-"use client"
-
 import React from 'react'
 import { Input } from './ui/input'
 import { Button } from './ui/button'
 import { Card } from './ui/card'
-import { MapPin } from 'lucide-react'
 
 const SearchBar = () => {
   return (
