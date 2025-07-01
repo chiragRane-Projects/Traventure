@@ -42,11 +42,12 @@ const WhyChooseUs = () => {
           {features.map((feat) => (
             <Card
               key={feat.id}
-              className="rounded-xl shadow-md p-6 flex flex-col items-start text-left hover:shadow-xl transition duration-300"
+              className="rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-xl transition duration-300"
             >
               <div className="mb-2">{feat.icon}</div>
               <h3 className="text-xl font-semibold">{feat.name}</h3>
               <p className="text-gray-600 text-sm">{feat.desc}</p>
+              <p className='text-rose-600 cursor-pointer'>Read More</p>
             </Card>
           ))}
         </div>
